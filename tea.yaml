@@ -2,5 +2,5 @@
 ---
 version: 1.0.0
 codeOwners:
-  - ''
-  quorum: 1
+  - '0x3BD7Da59c18479051604AF59aBD3CB01D02d3109'
+quorum: 1
